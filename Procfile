@@ -1,2 +1,2 @@
-worker: python daily_verse_bot.py
+worker: python dailyverse.py
 web: python server.py
