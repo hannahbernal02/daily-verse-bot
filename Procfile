@@ -1,0 +1,1 @@
+worker: python daily_verse_bot.py
